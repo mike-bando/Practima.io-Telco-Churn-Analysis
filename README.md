@@ -26,15 +26,15 @@ This project was successfully defended and verified by industry experts from Pra
 
 ## 📂 Project Structure
 
-1. **`1.Data_Preparation.ipynb`** (`1.Przygotowanie_Danych.ipynb`):
+1. **`1.Data_Preparation.ipynb`** (`1.Data_Preparation.ipynb`):
 * Data cleaning, handling missing values, and preparing features for visualization.
 
 
-2. **`2.Churn_Analysis_Dashboard.twb`** (`2.Analiza_Przyczyn_Rezygnacji.twb`):
+2. **`2.Churn_Analysis.twb`** (`2.Churn_Analysis.twb`):
 * An interactive Tableau dashboard focusing on churn drivers such as contract types, monthly charges, and service tenure.
 
 
-3. **`3.Final_Summary.pdf`** (`3.Podsumowanie.pdf`):
+3. **`3.Project_Summary.pdf`** (`3.Project_Summary.pdf`):
 * A business-oriented report containing final insights and actionable recommendations.
 
 
@@ -68,6 +68,6 @@ Based on the analysis, several critical factors influencing customer churn were 
 
 If you have any questions about the methodology or findings of this project, let's connect!
 
-# * **LinkedIn:** [Link to your profile]
+## * **LinkedIn:** [Link to your profile]
 
 ---
