@@ -68,6 +68,4 @@ Based on the analysis, several critical factors influencing customer churn were 
 
 If you have any questions about the methodology or findings of this project, let's connect!
 
-## * **LinkedIn:** [Link to your profile]
-
 ---
