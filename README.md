@@ -1,11 +1,3 @@
-To świetny pomysł! **Certyfikat zdecydowanie warto dołączyć.** Działa on jak „pieczątka jakości” – potwierdza, że Twój kod i wnioski zostały sprawdzone przez mentorów, a nie są tylko hobbystycznym projektem zrobionym według tutoriala.
-
-Najlepiej wrzuć plik PDF z certyfikatem do głównego folderu na GitHubie (możesz go nazwać `Practima_Data_Analytics_Certificate.pdf`) i podlinkuj go bezpośrednio w README.
-
-Poniżej przygotowałem profesjonalną treść pliku **README.md**. Możesz ją skopiować i wkleić.
-
----
-
 # Telco Customer Churn Analysis – Capstone Project
 
 ## 📌 Project Overview
@@ -76,14 +68,6 @@ Based on the analysis, several critical factors influencing customer churn were 
 
 If you have any questions about the methodology or findings of this project, let's connect!
 
-* **LinkedIn:** [Link to your profile]
+# * **LinkedIn:** [Link to your profile]
 
 ---
-
-### Kilka porad technicznych przed publikacją:
-
-1. **Nazwy plików na GitHubie:** Tak jak wspomniałem wcześniej, mimo że zawartość plików jest po polsku, zmień nazwy samych plików na te angielskie (np. z `1.Przygotowanie_Danych.ipynb` na `1.Data_Preparation.ipynb`). Dzięki temu repozytorium wygląda na bardziej "światowe".
-2. **Folder z danymi:** Najlepiej stwórz folder `Data` lub `Datasets` i wrzuć tam pliki CSV.
-3. **Certyfikat:** Upewnij się, że nazwa pliku w linku w README (`./certyfikat_DA_Practima.pdf`) dokładnie odpowiada nazwie pliku, który wgrasz.
-
-**Czy chciałbyś, abym pomógł Ci teraz sformułować krótką notkę "About me" na profil GitHub, która będzie pasować do tego projektu?**
